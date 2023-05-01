@@ -17,6 +17,7 @@
 <ul>
     <li><a href="https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a">Bing Advanced Search Keywords</a></li>
     <li><a href="https://Advanced search keywordssupport.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930">Bing Advanced Search Options</a></li>
+    <li><a href="https://seochatter.com/bing-advanced-search-operators-filters/">Bing Advanced Search Operators & Filters Blog</a></li>
     <li><a href="https://ahrefs.com/blog/google-advanced-search-operators/">Google Advanced Search Operators Blog</a></li>
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
