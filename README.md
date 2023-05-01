@@ -1,9 +1,15 @@
-# Google-Dorking-Hacking-OSINT
+# OSINT-Advanced Searching 
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <p>Google Dorking also known as Google Hacking, Advanced Searching or Boolean Searching is an excellent OSINT knowledge to have and will assist you with your OSINT research. Below are some resources you may find helpful.</p>
-<p>You will also find links to other search engines, advanced search options. 
+<p>You will also find links to other search engines, advanced search options.</p>
+<br></br>
+<table>
+    <tr>
+        <td>Featured</td>
+    </tr>
+</table>
 <ul>
     <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database</a></li>
     <li><a href="https://dorksearch.com/">Google Dork Search</a></li>
@@ -25,6 +31,8 @@
     <li><a href="https://www.google.com/advanced_video_search">Google Video Search</a></li>
     <li><a href="https://ahrefs.com/blog/google-advanced-search-operators/">Google Advanced Search Operators Blog</a></li>
     <li><a href="https://support.startpage.com/hc/en-us/articles/4521473758228-How-to-use-search-operators-Advanced-Search-">Startpage Advanced Search Operators</a></li>
+    <li><a href="https://twitter.com/search-advanced?">Twitter Advanced Search</a></li>
+    <li><a href="https://developer.twitter.com/en/docs/twitter-api/v1/rules-and-filtering/search-operators">Twitter Advanced Search Operators</a></li>
     <li><a href="https://search.yahoo.com//web/advanced">Yahoo Advanced Web Search</a></li>
     <li><a href="https://en.wikibooks.org/wiki/How_To_Search/Yahoo">Yahoo Search Wiki</a></li>
     <li><a href="https://yandex.com/support/search/query-language/search-operators.html">Yandex Search by Date, Language, and File Type</a></li>
