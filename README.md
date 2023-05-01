@@ -22,6 +22,7 @@
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
     <li><a href="https://www.google.com/advanced_image_search">Google Image Search</a></li>
     <li><a href="https://www.google.com/advanced_video_search">Google Video Search</a></li>
+    <li><a href="https://support.startpage.com/hc/en-us/articles/4521473758228-How-to-use-search-operators-Advanced-Search-">Startpage Advanced Search Operators</a></li>
     <li><a href="https://search.yahoo.com//web/advanced">Yahoo Advanced Web Search</a></li>
     <li><a href="https://en.wikibooks.org/wiki/How_To_Search/Yahoo">Yahoo Search Wiki</a></li>
     <li><a href="https://yandex.com/support/search/query-language/search-operators.html">Yandex Search by Date, Language, and File Type</a></li>
