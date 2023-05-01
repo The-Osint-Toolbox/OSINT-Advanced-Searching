@@ -3,7 +3,7 @@
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
 <p>Google Dorking also known as Google Hacking, Advanced Searching or Boolean Searching is an excellent OSINT knowledge to have and will assist you with your OSINT research. Below are some resources you may find helpful.</p>
-<p>You will also find links to other search engines advanced search options. 
+<p>You will also find links to other search engines, advanced search options. 
 <ul>
     <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database</a></li>
     <li><a href="https://dorksearch.com/">Google Dork Search</a></li>
@@ -18,6 +18,7 @@
     <li><a href="https://support.microsoft.com/en-us/topic/advanced-search-keywords-ea595928-5d63-4a0b-9c6b-0b769865e78a">Bing Advanced Search Keywords</a></li>
     <li><a href="https://Advanced search keywordssupport.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930">Bing Advanced Search Options</a></li>
     <li><a href="https://seochatter.com/bing-advanced-search-operators-filters/">Bing Advanced Search Operators & Filters Blog</a></li>
+    <li><a href="https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/">DuckDuckGo Advanced Search Operators</a></li>
     <li><a href="https://ahrefs.com/blog/google-advanced-search-operators/">Google Advanced Search Operators Blog</a></li>
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
