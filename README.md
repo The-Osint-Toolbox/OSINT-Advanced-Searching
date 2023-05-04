@@ -24,6 +24,7 @@
     <li><a href="https://Advanced search keywordssupport.microsoft.com/en-us/topic/advanced-search-options-b92e25f1-0085-4271-bdf9-14aaea720930">Bing Advanced Search Options</a></li>
     <li><a href="https://seochatter.com/bing-advanced-search-operators-filters/">Bing Advanced Search Operators & Filters Blog</a></li>
     <li><a href="https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/">DuckDuckGo Advanced Search Operators</a></li>
+    <li><a href="https://dorkgenius.com/#!">Dork Genius Generate Custom Dorks for Google, Bing, DuckDuckGo.</a></li>
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
     <li><a href="https://www.google.com/advanced_image_search">Google Image Search</a></li>
