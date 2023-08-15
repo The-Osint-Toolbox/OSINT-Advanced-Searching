@@ -11,7 +11,7 @@
 </table>
 <ul>
     <li><a href="https://osintteam.blog/mastering-osint-the-art-of-google-dorking-for-investigators-e0a908055873">OSINT Team</a></li>
-     <p>From zero to Google Dorking hero: enhancing your OSINT arsenal.(2023)</p>
+     <p>From zero to Google Dorking hero: enhancing your OSINT arsenal. (2023)</p>
 </ul>
 <br></br>
 <table>
