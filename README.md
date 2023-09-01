@@ -21,8 +21,8 @@
 </table>
 <ul>
     <li><a href="https://dorkgenius.com/#!">Dork Genius Generate Custom Dorks for Google, Bing, DuckDuckGo.</a></li>
-    <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database</a></li>
-    <li><a href="https://dorksearch.com/">Google Dork Search</a></li>
+    <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database.</a></li>
+    <li><a href="https://dorksearch.com/">Google Dork Search.</a></li>
     <li><a href="https://developers.google.com/search/docs/crawling-indexing/indexable-file-types">Google Search Central, learn how Google searches the internet.</a></li>
 </ul>
 <br></br>
