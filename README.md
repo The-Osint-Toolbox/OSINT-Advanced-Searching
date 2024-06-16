@@ -29,6 +29,7 @@
     <li><a href="https://seochatter.com/bing-advanced-search-operators-filters/">Bing Advanced Search Operators & Filters Blog</a></li>
     <li><a href="https://help.duckduckgo.com/duckduckgo-help-pages/results/syntax/">DuckDuckGo Advanced Search Operators</a></li>
     <li><a href="https://dorkgpt.com/">DorkGPT Generate Google Dorks with AI</a></li>
+    <li><a href="https://github-dorks.vercel.app/">GitHub Dorks</a></li>
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
     <li><a href="https://www.google.com/advanced_image_search">Google Image Search</a></li>
