@@ -15,6 +15,7 @@
     <li><a href="https://dork.bugbountyhunting.com/">Dorky, Dork Generator.</a></li>
     <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database.</a></li>
     <li><a href="https://dorksearch.com/">Google Dork Search.</a></li>
+    <li><a href="https://ahrefs.com/blog/google-advanced-search-operators/">Google Search Operators: The complete list.</a></li>
     <li><a href="https://developers.google.com/search/docs/crawling-indexing/indexable-file-types">Google Search Central, learn how Google searches the internet.</a></li>
 </ul>
 <br></br>
