@@ -11,7 +11,7 @@
 </table>
 <ul>
     <li><a href="https://github.com/Tobee1406/Awesome-Google-Dorks">Awesome Google Dorks.</a></li>
-    <li><a href="https://github.com/cipher387/Dorks-collections-list?ref=darkwebinformer.com">Cipher Dorks Collection</a></li>
+    <li><a href="https://github.com/cipher387/Dorks-collections-list?ref=darkwebinformer.com">Cipher's Dorks Collection</a></li>
     <li><a href="https://dorkgenius.com/#!">Dork Genius Generate Custom Dorks for Google, Bing, DuckDuckGo.</a></li>
     <li><a href="https://dork.bugbountyhunting.com/">Dorky, Dork Generator.</a></li>
     <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database.</a></li>
