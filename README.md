@@ -35,6 +35,7 @@
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
     <li><a href="https://www.google.com/advanced_image_search">Google Image Search</a></li>
+    <li><a href="https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks">Google & Shodan Dorks for webcams</a></li>
     <li><a href="https://www.google.com/advanced_video_search">Google Video Search</a></li>
     <li><a href="https://ahrefs.com/blog/google-advanced-search-operators/">Google Advanced Search Operators Blog</a></li>
     <li><a href="https://support.startpage.com/hc/en-us/articles/4521473758228-How-to-use-search-operators-Advanced-Search-">Startpage Advanced Search Operators</a></li>
