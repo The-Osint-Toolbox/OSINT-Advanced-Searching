@@ -34,6 +34,7 @@
     <li><a href="https://github-dorks.vercel.app/">GitHub Dorks</a></li>
     <li><a href="https://www.google.com/advanced_search">Google Advanced Search</a></li>
     <li><a href="https://books.google.com/advanced_book_search">Google Book Search</a></li>
+    <li><a href="https://taksec.github.io/google-dorks-bug-bounty/">Google Dorks for Bug Bounty</a></li>
     <li><a href="https://www.google.com/advanced_image_search">Google Image Search</a></li>
     <li><a href="https://github.com/ExploitXpErtz/WebCam-Google-Shodan-Dorks">Google & Shodan Dorks for webcams</a></li>
     <li><a href="https://www.google.com/advanced_video_search">Google Video Search</a></li>
