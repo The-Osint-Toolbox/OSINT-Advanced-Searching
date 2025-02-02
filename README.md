@@ -15,7 +15,7 @@
     <li><a href="https://github.com/cipher387/Dorks-collections-list?ref=darkwebinformer.com">Cipher387s Dorks Collection</a></li>
     <li><a href="https://dorkgenius.com/#!">Dork Genius Generate Custom Dorks for Google, Bing, DuckDuckGo.</a></li>
     <li><a href="https://dork.bugbountyhunting.com/">Dorky, Dork Generator.</a></li>
-    <li><a href="https://www.dorkgpt.com/">DorkGPT</a>Generate Google Dorks with AI.</a></li>
+    <li><a href="https://www.dorkgpt.com/">DorkGPTGenerate Google Dorks with AI.</a></li>
     <li><a href="https://www.exploit-db.com/google-hacking-database">Google Hacking Database.</a></li>
     <li><a href="https://dorksearch.com/">Google Dork Search.</a></li>
     <li><a href="https://developers.google.com/search/docs/crawling-indexing/indexable-file-types">Google Search Central, learn how Google searches the internet.</a></li>
